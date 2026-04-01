@@ -1,19 +1,14 @@
 {
   "mappings": [
     "/content/securbank/language-masters/en:/",
-    "/content/securbank/language-masters/en/:/en/",
-    "/content/securbank/language-masters/fr/:/fr/",
-    "/content/securbank/language-masters/fr:/fr",
-    "/content/securbank/language-masters/es/:/es/",
-    "/content/securbank/language-masters/es:/es",
-    "/content/securbank/language-masters/ja/:/ja/",
-    "/content/securbank/language-masters/ja:/ja",
-    "/content/securbank/language-masters/de/:/de/",
-    "/content/securbank/language-masters/de:/de",
+    "/content/securbank/language-masters/en/:/",
+    "/content/securbank/language-masters/en/nav:/nav",
+    "/content/securbank/language-masters/en/footer:/footer",
     "/content/securbank/configuration:/.helix/config.json",
     "/content/securbank/metadata:/metadata.json",
     "/content/securbank/redirects:/redirects.json",
-    "/content/securbank/placeholders:/placeholders.json"
+    "/content/securbank/placeholders:/placeholders.json",
+    "/content/securbank.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
     "/content/securbank/",
